@@ -15,8 +15,8 @@ export default {
         "white-smoke":"#F3F3F3",
         "sea-salt":"#FAFAFA",
         "periwinkle":"#C7DBFF",
-        "voilet-blue":"#4243B1",
-        "voilet-blue-2":"#3738A6",
+        "violet-blue":"#4243B1",
+        "violet-blue-2":"#3738A6",
         aquamarine: "#B2FCE4",
         red:"#DF1841",
       }
